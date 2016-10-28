@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 In search of the PULL request
+=======
+
+The git warrior wanted another magic carrot so he kept on traverse the harsh land.
+>>>>>>> 7f4baa2fa8db601bbf5f1b29c74ffd9e0de9931d
