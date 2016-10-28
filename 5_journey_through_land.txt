@@ -1,1 +1,4 @@
 the git warrior traversed the harsh land.
+
+and he barked at the github community and its developers..
+how could they implement such an awful git language?
