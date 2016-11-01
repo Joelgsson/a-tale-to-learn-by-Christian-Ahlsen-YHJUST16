@@ -1,4 +1,3 @@
 In search of the PULL request
 
-The git warrior wanted another magic carrot so he kept on traversing the harsh land.
-
+The git warrior wanted another magic carrot so he kept on traversing the harsh land. Or was he?

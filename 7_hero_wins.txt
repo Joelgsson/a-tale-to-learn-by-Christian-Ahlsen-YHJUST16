@@ -1,7 +1,8 @@
-<<<<<<< HEAD
+
 the git warrior with his pet help PUSH:ed his sword through the belly of the CONFLICT beast.
-=======
+
 the git warrior PUSH:ed his sword through the belly of the CONFLICT beast.
 
-.. and Manuel screamed as a girl when the git warrior MERGE:ed with CONFLICT beast. 
->>>>>>> upstream/master
+.. and Manuel screamed as a girl when the git warrior MERGE:ed with CONFLICT beast.
+
+Manuel didnt even want to know that this was gonna happen again...
