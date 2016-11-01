@@ -1,1 +1,3 @@
 The git warrior suddenly stood face to face with a giant CONFLICT. The git warrior used the magic carrot.
+
+The CONFLICT shook his HEAD as if to taunt the git warrior and attacked.

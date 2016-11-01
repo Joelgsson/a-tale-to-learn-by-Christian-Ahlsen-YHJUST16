@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 The big purple git warrior enters the forest. Then the sidekick appears and gives the git warrior a magic carrot.
+=======
+The git warrior enters the forest.
+
+Manuel stood tall and proud beside the hero.
+The wind took hold of his red cloak as he leaned down
+to consult with the git warrior.
+
+how about a cup of refreshing coffee before venture out on our journey.
+NO! shouted the git warrior, spitting in manuals face. This was a epic day.
+
+>>>>>>> upstream/master
